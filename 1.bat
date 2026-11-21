@@ -1,0 +1,2 @@
+cls
+python Color_Namer_App.py
